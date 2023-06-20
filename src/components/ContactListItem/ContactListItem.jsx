@@ -24,5 +24,4 @@ ContactListItem.propTypes = {
   id: PropTypes.string,
   name: PropTypes.string,
   phone: PropTypes.string,
-  onDelete: PropTypes.func.isRequired,
 };
